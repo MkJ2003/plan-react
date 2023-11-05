@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MkJ2003/plan-react.git/static/css/main.fdc828fe.css",
+    "main.js": "/MkJ2003/plan-react.git/static/js/main.fbbdbb70.js",
+    "index.html": "/MkJ2003/plan-react.git/index.html",
+    "main.fdc828fe.css.map": "/MkJ2003/plan-react.git/static/css/main.fdc828fe.css.map",
+    "main.fbbdbb70.js.map": "/MkJ2003/plan-react.git/static/js/main.fbbdbb70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdc828fe.css",
+    "static/js/main.fbbdbb70.js"
+  ]
+}
